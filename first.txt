@@ -1,0 +1,6 @@
+This is My first Project
+
+
+I want  To change in commit
+changes by ankit
+This is changed for skiping the staging area
